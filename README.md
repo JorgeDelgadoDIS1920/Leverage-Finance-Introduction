@@ -196,3 +196,302 @@ Speaker1: [00:29:29] That gives you [00:29:30] the biggest challenges from from 
 Speaker4: [00:29:33] But the issue.
 
 Speaker1: [00:29:38] That comes to mind. So so I talked about the tax for a minute. So so the remaining two US kind of tier ones that we're working with are Goldman Sachs and Jefferies. So so those are the two remaining ones. Goldman Sachs has actually picked up quite dramatically over the last couple of months. So without saying too much about what we're doing with them, what's moving in that direction. So ultimately the goal is to have them [00:30:00] on the platform, both as a lender, as an agent. They're motivated to do it. They they dabbled with another provider talking about other providers in this meeting. And now they're moving. You know, I'm not sure who that is, but but yes. And they're they're now moving in a different direction. And they'll probably still have that relationship as well. So not to say anything about that provider, but the distinction ultimately with that provider without naming them and
+
+
+Speaker1: [00:00:00] Prasada is the only company that has licenses with all of these Asian banks to receive their data digitally or consume it digitally and redistribute it through our platform. Nobody else has those licenses, so anyone else that's working with these other banks are going out and getting it the same way that they've been getting it for 30 years, which is hook up a fax machine, get on a distribution list and wait for something to happen. That's how they're doing it. Yeah, it's the same process. What? I believe is now known as UBS. So [00:00:30] Credit Suisse was on the platform being being transitioned, if you will, to UBS. So now that's it really in the, in that transition mode. So it's really all of these getting replatformed onto UBS and we're working with UBS about when they put their deals on different systems, different people. So it's a bit of a process. So I don't really have a timeline yet about when those deals start to show up, but we are working with them to try to get that as fast as we can.
+
+Speaker2: [00:00:58] What would it be like in this Just like last [00:01:00] year. I mean, JP Morgan has been missing since inception. So what is the average timeline that you've seen in terms of start to go live in this process of evaluation agreement that you just mentioned? Yes, probably. We need to glean a little bit some stuff before we we start publishing it openly to everyone, etc.. But again, but again or to receive it and then we will receive that process. We mentioned QC again QC is very common to us and all [00:01:30] type of facilities not needed for every type of, of facility. So what is that? You know, what you're saying is six months, one year, two years.
+
+Speaker1: [00:01:38] Sure. So so it really ultimately depends on the scope of the work. Right. So if you're coming in as a lender first only that's happening within months, two months, three months, it really depends on how sophisticated the technology stack is at an organization. If you're a UI customer, which I know you're not, but UI customers are on within a couple of weeks. That was it. So just to give it, that's [00:02:00] the easy part of the spectrum.
+
+Speaker2: [00:02:01] I'm really out of the scope.
+
+Speaker1: [00:02:02] So. So as you move forward into the API piece, we see customers getting on API connectivity within three months, four months, that type of thing. It really depends what you're connecting into it, how much mapping work needs to be done. Do you have dedicated teams? Do you have part time resources? Some are hiring consultants, like low IQ consultants that come in and do the work for them. So we have 2 or 3 instances of that. I forget what group the lending practice as an example. Other consultancies that are loan IQ experts that [00:02:30] come in and accelerate those windows. Outside of that, doing it in-house three months, four months, we've seen and there's a couple that are tracking along that from an agency perspective. Once you start doing that piece, it's actually compressed as new customers are coming on the platform. So JPM and B of A is kind of the first. When they first started, it was a longer process that took about a year for them to do that. Most recently with Wells Fargo I believe they got done in five months or something like that. I'm not sure of that for months. So. So [00:03:00] best practices have been determined. It's much easier, I would say, on the Wells Fargo experience versus initially when JPM first came on. So so I would say the agency piece that we just block it up agency maybe three months, maybe sooner now. Coming on just through the API as kind of a lender consumption point, that's maybe three months. So it could be as quick as five, six months to do all of that. So yeah.
+
+Speaker2: [00:03:25] So let's see the time to sign that. [00:03:30] It's time to be interviewed.
+
+Speaker1: [00:03:32] So hopefully that just.
+
+Speaker2: [00:03:33] Gives me something that's right for you. So yeah. Yeah. Thank you.
+
+Speaker1: [00:03:37] 15 minutes left. We can, you know, one of the, the main goals here was to hear about your, your focus there to get your feedback. And we can always have a separate conversation because that's that's a huge, huge topic. But we've been talking about this to some degree. But you know, the plan is you know, still folks here in the US, but we're building the blocks already. [00:04:00] We started last year to roll out to Europe to to start the groundwork, speak with the May, speak with, you know, big institutions out there to get the ball rolling because we know it's not going to be, you know, a three, six month process over there. It's going to take multiple, multiple years. So we're really looking for your guidance. What are the what are the areas that that you think that we need to focus our time on. And again it can be for later talking to.
+
+Speaker2: [00:04:28] I don't know exactly how [00:04:30] to answer that. And most of the people here are very focused on the US market. So I'm not sure.
+
+Speaker3: [00:04:36] From our perspective, I mean.
+
+Speaker2: [00:04:38] We want to implement it globally.
+
+Speaker3: [00:04:40] Sure. Yeah.
+
+Speaker2: [00:04:41] Every project.
+
+Speaker3: [00:04:41] We do.
+
+Speaker2: [00:04:42] We have a global mandate.
+
+Speaker3: [00:04:44] I feel like that's that's core to Santander that they they they're very focused on having global infrastructure not have fragmentation in how we operate the business for leverage, finances and mandate. So, so far everything that [00:05:00] we've been implemented has been with a global footprint. So my question is more for you guys. So do you need to get a license in Europe to operate. Like how does that process look like.
+
+Speaker1: [00:05:13] Yes. So so that's so that's ultimately what's happening now. So, you know, in that that wheel slide that we started with, you know, the focus, the mandate was in the US market first, clearly because of the banks that stood us up. That was the mandate was USD issued. You know, deals, you know, A's and B's and revolvers. That was [00:05:30] the focus. We've we've achieved that and we're moving outside of that now. So as we bring Barclays on as an example, clearly a European bank a UK bank, but operates in Europe as well. So ultimately getting the licenses to operate to be able to consume GBP issued deals, euro issued deals and finding the markets that we want to start in first. Right? So clearly the UK clearly on the continent with the EU it's really going to be, you know, Spain and France. [00:06:00] Right. Would probably the two areas that we'll focus on. We've been engaged with BNP as an example for a long time. They were a potential consortium member. Looking to potentially be involved from that perspective, potentially in the future with a focus on continental Europe. But those are really the nodes that we're focused on in Europe now. So clearly why we're interested in working with you as well. So that process is starting. So it's really the legal process of being incorporated properly, being able to [00:06:30] do business there. Clearly all the banks that are on the platform now are global in nature and have a lot of presence in the UK and on the continent. And would be looking to put their deals on once we're ready to do that. So this year, 2025, is when we're planning on doing a bunch of that work. But I don't have timelines yet about it, but Barclays is Barclays is clearly keen on moving that forward for their own purposes.
+
+Speaker2: [00:06:55] So on the on the MBA, on the on what is so we so we're going to we're we're [00:07:00] approaching this as a global. So we are Santander branch say. So we are an international branch of our headquarters. So actually that one question would be whether we would be able to access and see as well Santander essays or not, the new branch, but the Madrid information as well through the platform because. So this should be a way for us to, you know, open the door not just for the New York branch deals, but also for Santander. Santander, maybe [00:07:30] is also basically the same. The team in Madrid, they have a much bigger scope in terms of agency so they can and in the European market obviously. So not here. So here we this is the team that is managing the agency. But in Madrid we have a much bigger scope for agencies in the European market. So seeing what Madrid can see, providing value to Madrid as a lender and potentially what commodity can obtain if we start contributing [00:08:00] as agent, right? Obviously it depends on who else is in the platform with us, because it's just us with none of the other European peers, probably that might be not as beneficial. So yeah, we need to start thinking now. Nico, about that is in some conversation with the other European, our peers in Europe, also in Spain. And Russia, to see whether we can, you know, build a little bit also of our momentum together [00:08:30] to, to initiate this effort because again, we need us plus the rest. If not, there's.
+
+Speaker1: [00:08:37] No that makes.
+
+Speaker2: [00:08:37] Sense. But yeah again seeing okay we're going to see and demonstrate also to see okay this is what we have. This is the material. They have positions also in us also in I think would be interesting to have that broader view. Yeah. Yeah, absolutely. Yeah, actually we can when we have the NDA, we can share the [00:09:00] deals in which we have position in Madrid as well on the US based deals. It's easy to share with you at the end if we can review, if those that actually have no idea if they are GP's or whatever. So regarding a little bit, just quickly on functionality because we mentioned on the one like connectivity and that, that do you it's been a while since we saw the last demo from, from you guys. Is there anything else that is like [00:09:30] on the UI that is useful as you intend to be? Also like a place to connect, share, right. Open issues race or just a place where, you know, we're sharing data and there's, you know, if you want to go to reach out to someone and send an email, Right? Right. Well, is that something changed in there or on your end? Yeah.
+
+Speaker1: [00:09:52] Yeah. So right now, it's still very much the core platform. As Chris mentioned, we have our acceleration tools. So for those that are either getting comfortable with the [00:10:00] APIs or looking through that direction but haven't yet essentially being able to apply their positions to make sure that they're so not uncovering those at quarter ends. As we look towards 925, as we look into 26 there will be thoughts.
+
+Speaker4: [00:10:14] Just as we're looking at multi-currency or we're doing multi-currency this year, but we're looking towards the non US items. There will also be sort of a look towards do we want to do something potentially around chat functionality. Between you can appreciate if you look at it through the lens of Asian as well as a lender. We don't want [00:10:30] to just give another channel through which you have to manage that, that information. We want to make sure that we're at a critical size, where the inflow of information or the inflow of questions coming into the agent is actually diminishing.
+
+Speaker2: [00:10:43] Email is not a bad form to interact with anyone else is just to consume data or use data.
+
+Speaker4: [00:10:49] I don't know who you're going to talk to or who you're going to be there or whatever else, but exactly, a lot more self-serve in terms of.
+
+Speaker1: [00:10:55] The functionality does exist there. Actually, it was the banks who said they really weren't interested [00:11:00] in having another forum to ignore customers in. But maybe you want.
+
+Speaker4: [00:11:05] To see the inquiries from.
+
+Speaker2: [00:11:07] Everyone who use it, then it's just only one question. This is stunning. I mean, do you have any kind of requirements about the quality of the agents that are engaged? I mean, because imagine that one of those and I'm not going to say any names. It's not I mean, it's not really, you know, the information that they send is not accurate. And we have a lot of complaints because we have to call and say, [00:11:30] guys, this is wrong and you did it wrong or whatever.
+
+Speaker5: [00:11:32] Do you have any kind of quality requirement to say, hey, please. I mean, write something about the shortcuts. And somebody was doing something really.
+
+Speaker4: [00:11:42] Sure that they don't have to, that they don't, that they're cleaning up sort of the deals before they bring them on to the platform. We have validations, core validations, when the agents are publishing to us to ensure that sort of they're providing us with the necessary information to make sense of the event that they're supplying. So there's sort of this threshold of information that they [00:12:00] need to provide when they're communicating it to us. In those cases of if they are processing incorrect information or there's changes. That's really on the agent in terms of how they're they're actioning and behaving. But one thing that we do have is from the effect of those release notices, is we believe it's sort of the immutability of what they've sent across. So if they have to change it, they have to make a correction to it. You're getting sort of that clear audio. You're getting adjustments. You're getting reversals to the behavior as well to be able to see what those updates are. Because as much as it's [00:12:30] the agents don't want to air that dirty laundry when they're sending to us, they also appreciate that from a vendor perspective, they need to consume that so they understand sort of exactly what happens.
+
+Speaker2: [00:12:39] So so if.
+
+Speaker5: [00:12:40] There is any kind of restriction Because of the, you know, the, the general ledger systems or internal systems of the bank. And they, they know that they are booking this in the wrong way. That is not what the agreement said, but they are doing some kind of, you know, manual adjustment or whatever, something that they can share with you and they can lay in the middle to [00:13:00] translate this to the real, the final, you know, data that we're getting to share with the rest of the land. So no.
+
+Speaker4: [00:13:08] Are you talking about share adjustments, things.
+
+Speaker5: [00:13:09] Like. No. I mean, that's I think that I always said the same example. I'm sorry for that because I think that my peers here, the. Example is, you know, we know that some banks are doing this, are booking this in two different tranches in the system because they can't do it in only one. So they are sending notices or they are, you know, changing something [00:13:30] manually to send only one notice or only one, you know, facility. So this is something that they can tell you, hey guys, I have this problem, this restriction. I know that the lenders are not Don't they know that they are not the only one to see something that is a layer in the middle. To translate this and change it to only one or right now we're.
+
+Speaker4: [00:13:52] Conveying exactly what the agent is sending. But there are things around how do we help tell a story in terms of certain situations like that? So if there's [00:14:00] for those cases, we're talking about two facilities, whether it's maybe an extended and on extend or something along those lines or what, what are the.
+
+Speaker5: [00:14:08] Internal designation of the, of the, of the balance that, that, that you need to put in place. Yeah, yeah.
+
+Speaker4: [00:14:16] Yeah.
+
+Speaker5: [00:14:16] It's it's different.
+
+Speaker4: [00:14:17] Portfolios. I was, I was getting at today and they're sending different notices to you through both of those or I mean yeah.
+
+Speaker5: [00:14:25] I mean sometimes for example, when we had the agent would receive two items because they need to split [00:14:30] it up. Yeah. Because they have this split level.
+
+Speaker2: [00:14:33] In this.
+
+Speaker5: [00:14:34] Case we.
+
+Speaker1: [00:14:34] Would give you.
+
+Speaker5: [00:14:35] You.
+
+Speaker1: [00:14:35] Would, you would have you have two different lenders. Right. No, no.
+
+Speaker2: [00:14:40] So imagine you actually have one facility, one facility. So one x. But for some reason internally some banks for accounting purposes need to classify the accounting differently. So one is available for sale. Another part of the facility is held to collect all to [00:15:00] maturity in the US. So due to some limitations of the systems, they book two facilities which are the same. So at the end of the day, they send two notices instead of one because they classify it differently internally. So nothing to do with the market.
+
+Speaker5: [00:15:16] They send us two wires instead, only one because they are.
+
+Speaker2: [00:15:20] This is kind of a strange example, but it happens.
+
+Speaker4: [00:15:23] Have you seen that with any of the ones that we have.
+
+Speaker1: [00:15:24] On.
+
+Speaker4: [00:15:25] Platforms, we haven't observed any of that? No. I mean.
+
+Speaker1: [00:15:27] I mean, I'm.
+
+Speaker5: [00:15:28] Just guessing this is one example maybe [00:15:30] to be different, you know, restrictions in different banks for different reasons. So I'm just thinking more if there is any kind of layer in the middle to translate to help the banks Bags to put there, right?
+
+Speaker1: [00:15:41] Yeah.
+
+Speaker5: [00:15:42] I don't know. Well.
+
+Speaker1: [00:15:43] I mean, so so you're part of the effort was cleaning up data. That's kind of an overall topic because they're exposing their information out publicly in real time. So the transparency or the ability to be more transparent has now been created on the platform. So a lot of the effort behind the scenes was one normalizing [00:16:00] the data, which which means consensus around how we're using loan IQ. What are the outputs or what are the outputs? What should we be doing? What's the best practice? So that's cleaned up some of the activity. I don't know about this scenario.
+
+Speaker3: [00:16:15] I think it may be the same or similar use case. Let's say you're dealing with Santander as a global entity, but saying you have two trading desks that trade on the same. That's right. Right. Like one trading desk a position [00:16:30] and trading traders B knows this other position. That's where they combine the positions for Well.
+
+Speaker1: [00:16:39] So for us we're looking at lender of record right. So when we get into the conversation about participations or subparts, if you're like a hedge fund and you're not a lender of record, but you're getting an economic benefit. So review desks or books as like a subpart of the lender of record. So we are talking about building out participation kind of capabilities to handle that. So perhaps [00:17:00] this falls into that conversation.
+
+Speaker3: [00:17:02] Which label do you consolidate information for the party. Right.
+
+Speaker1: [00:17:06] So I think we're looking at that I don't know what the latest is on the subparts that work, but that's maybe maybe this kind of example falls into that.
+
+Speaker3: [00:17:14] It's a different use case. Yeah. Yeah. When you're dealing with a bank you you have the non trading days. That's right.
+
+Speaker1: [00:17:22] Because because, because we have also heard particularly out of some of the French banks is that they're European. That's where their Parisian desk can't [00:17:30] see their US business. They don't want them to see that US business and vice versa. So the ability to to, you know, bifurcate or partition. You know, what they're seeing internally is also kind of access controls, permissioning that we're also creating for the platform to help on that conversation. So this participation piece is another element that's being developed particularly for kind of the hedge fund part of the market that says we want to participate, but we're not lender of record, so nobody will talk to us. So we're working on that [00:18:00] element too. And perhaps this example falls into to that scenario. So yeah.
+
+Speaker6: [00:18:05] And just just a quick question there. So the bureau is issuing the keys right.
+
+Speaker1: [00:18:13] So we're we're using cusips and keys. I think Nick, that was your question.
+
+Speaker1: [00:18:19] Yep. So as part of this effort, one of the major goals was to not be locked in to a vendor ecosystem. You're using the identifier [00:18:30] was a very good strategy for making you buy other people's data because that's what you had to do. Right? So that was a nice business model. We are outside of that business model as well. We're not licensed to use WL in this example. So one of the goals for Versona was to stop that kind of lock in through identifiers to be more open source. So in that effort, the Lsta and now the LMA and others kind of got together along with us and the agent banks to say [00:19:00] we're going to use something different that's not tied to licensing restrictions. So that's where that came into the conversation. So all of the deals that come on to the platform are mandated to have Q6. So certainly new issue deals all have new ships associated with them. And then also for deals that are already out in the market, they backfilled and added ships for a majority of us now north of 90% or something for the deals.
+
+Speaker4: [00:19:22] That are about.
+
+Speaker1: [00:19:23] 95. Sorry. And then the other piece. So entity identifier, which is the MDI [00:19:30] or LCI alternative, it's the other piece.
+
+Speaker6: [00:19:33] Yeah. My question was more of, you know, to the, to the point that was raised around you have different accounting books or portfolios with the same legal entity. You know, I know historically the logic behind an MDI is you have one MDI per legal entity name, right? So if the CEI is different where you can request two different SES on behalf of the same entity, that is a way to recognize different portfolios and different books. Otherwise, [00:20:00] if the restriction is still one CEI, you guys would identify it as one. Just as you know, as an agent bank, we would identify that lender under the same position.
+
+Speaker1: [00:20:11] I can provide, I can send to you or to the whole team if they'd like. I have some primers on the CEI, what it covers and what it doesn't cover. I'm not.
+
+Speaker7: [00:20:22] It's not getting at risk books, though. It is.
+
+Speaker4: [00:20:26] It'll be looking at by legal.
+
+Speaker1: [00:20:28] Yeah. Yeah. So but there's, there's [00:20:30] other ways I think in terms of identifiers for the subpart kind of conversation to be able to identify. That certainly goes to the kind of the hedge funds using the hedge fund example is to be able to identify, you know, what is the participant identifier of some type, whether it's a book or it's a hedge fund or some other entity that has the has the risk but doesn't is not the lender of record and being able to identify them with some something else. I don't think the CEI won't be used for that. It should be just the entity, the legal entity. But [00:21:00] then other identifiers, potentially for the participation or the subpart kind of conversation, I think is probably what will be developed.
+
+Speaker2: [00:21:07] So you're saying it is mandatory for the platform.
+
+Speaker4: [00:21:12] To correct.
+
+Speaker2: [00:21:12] The platform? Correct. And how are you how to, you know, have that spanning into Europe. Yeah.
+
+Speaker1: [00:21:19] So for for.
+
+Speaker2: [00:21:20] Europe.
+
+Speaker1: [00:21:21] As well. So
+
+Speaker2: [00:21:23] You have any other identifier that could be provided by.
+
+Speaker1: [00:21:26] So I think we would it was really only the limitation of being licensed [00:21:30] and allowing to get that license. So obviously as a competitor to S&P, you know market that we're not entitled to that. So we're going in a different direction. And I think the market market at large is looking for alternatives. I know, like Bloomberg has an open identifier as well to figure out how many people actually use it in the loan space. But short answer is we would potentially support other identifiers excuse to say now, but it's certainly not WL
+
+Speaker2: [00:21:58] I'm not, I'm not they're not [00:22:00] identified from, from the landscape. Right. I'm saying I think.
+
+Speaker1: [00:22:08] You mean like customer IDs with.
+
+Speaker2: [00:22:10] Systems. I'm thinking of the, of the facility. So every loan system uses the internal codes. Sometimes those codes are sharing as part of the analysis as well. Yeah. Doesn't need to be the QC just discussed.
+
+Speaker5: [00:22:21] A lot in Europe. But I'm actually certainly in.
+
+Speaker2: [00:22:23] Reference.
+
+Speaker5: [00:22:24] To use it as a unique identifier.
+
+Speaker4: [00:22:26] So to that point there's there's going to be the consideration as we look to, as [00:22:30] Chris said, potentially private and other names where they're not necessarily going to potentially q-ships to to how do we want to have some sort of unique identifier for strategy processing, for identification? We appreciate that. We'll have to look at whether that's something that the agent itself is going to be putting together or creating, or something that potentially could be doing. But we appreciate in certain cases, whether it's in the bilateral things that you're talking about or more clubby deals which we've seen, or into the private space where you're not going to necessarily have to discuss about it.
+
+Speaker1: [00:22:56] Yeah. So like the private credit ones, we're gonna have to come up with an identifier [00:23:00] for those. So so, yeah. So short answer, I think.
+
+Speaker4: [00:23:03] Okay.
+
+Speaker5: [00:23:03] Regarding the information, I have also another question about what information we are receiving. Do we know we are receiving from the agent that. Snc and I received?
+
+Speaker1: [00:23:17] I forget what Christine said about the reportable like the flag for those. I'd have to go back. This comes up from time to time. Not enough for me to write it down, but but but we can go back because we've had talked about this eligible flag. [00:23:30]
+
+Speaker2: [00:23:31] When we get there.
+
+Speaker5: [00:23:34] It's a it's a regulatory reporting that you have to provide the data when you are engaging. You need to provide the data for, you know, the balances for the rest of the vendors. And when you are the lender, you have to provide the data so they can reconcile. The fed can reconcile both.
+
+Speaker1: [00:23:48] Its for deals that are big enough for 200 million or something, and 100,000,003.
+
+Speaker5: [00:23:52] Or more years.
+
+Speaker7: [00:23:55] Like that. Yeah.
+
+Speaker4: [00:23:57] And also right now we're not [00:24:00] getting the identification of snack. But it's one thing, as Christine was like, I think this is a clear value. We just haven't added it yet.
+
+Speaker1: [00:24:06] So so just to highlight so some customers are taking. So there's a lot of data that comes in through the feed right. So there's 200 plus fields of information that some are using for analytic purposes to be able to identify when events are occurring within which segment or which industry or which agent as an example or which credits. But then there's also things like the stick calculations can be combined to create your own flag out of the data. [00:24:30] Because all of the elements are there, it's just that we don't calculate it yet. So just to highlight that customers are pulling the data for their own purposes and using their own, you know, engines or analysis or AI to kind of pull out the derived info. Just to recap.
+
+Speaker5: [00:24:44] And also just another question regarding because you said that this is real time. Yes. But we have not there isn't a scheduled repayment. And we put this in today, a 30 day next week. Yeah. This information will [00:25:00] start flowing. We can start, you know, so and.
+
+Speaker4: [00:25:04] So so we can go through with the.
+
+Speaker7: [00:25:06] Algorithm.
+
+Speaker1: [00:25:07] Yeah.
+
+Speaker4: [00:25:07] So you can go through this, call it a series of gates or steps that you're going through and you put it in whether you're sending to approval or sort of all those different, different stages. So, so we really support two different types of notices, one pending. So before it actually happens, if one is released, what's essentially effectively sent to the market. As you go through the through the implementation, they'll work with you to essentially align okay, where exactly that is on [00:25:30] setting up any of this out to us for us to capture it. But normally when it does get entered and we're capturing that prepay usually three days in advance. Okay.
+
+Speaker1: [00:25:38] Got it.
+
+Speaker5: [00:25:38] And my last question. Sorry.
+
+Speaker4: [00:25:40] That's great.
+
+Speaker5: [00:25:41] It's regarding sometimes we have a lot of issues with agents because they are paying to the wrong place because they have a different, you know, instructions or maybe a notice to a different place. Do we have that type of information? I mean, under this deal. And I can see what you can say. Details, contact details, [00:26:00] instructions, tax validation. You have in the system, right. I mean.
+
+Speaker2: [00:26:05] That way for us to reconcile that actually in their deal. My instructions.
+
+Speaker1: [00:26:10] So that's what I was mentioning about this was coming from the buy side where they were saying, please help us understand if the agent bank has the right. Yes. So so that is one of the items that we're working on exposing that level of detail into the platform. The fact that we're digital. Means that we can add additional [00:26:30] fields pretty easily, as long as the data is available and extractable out of loan IQ or ECB's or other places. And it doesn't have to be those platforms. But ultimately, yes, we're working on exposing that level of detail and getting that feedback from the market about what's most relevant. The buy side highlights the tax one most frequently. Can you say that? That's why. Instructions.
+
+Speaker5: [00:26:50] Yes. And the that's more related with the spine day. You know sometimes you don't see the full.
+
+Speaker1: [00:26:57] That's right.
+
+Speaker5: [00:26:57] Yeah. And your tax I mean your tax was [00:27:00] expired and we didn't go.
+
+Speaker1: [00:27:02] Or you sent the form in but they didn't actually process it.
+
+Speaker5: [00:27:04] That's right.
+
+Speaker1: [00:27:04] Yeah.
+
+Speaker4: [00:27:05] But with several of these, the conversation migrates from just telling me when and getting withheld against her. At that point, it's too late. But in those cases, the wire instruction details, it's like, don't just tell me the wire instructions once it's been sent, like, again, how do we sort of identify or be more proactive to capture or potentially do the learning for the agents?
+
+Speaker1: [00:27:22] So we are looking at those items as well. So to continue to expand the fields, continue to expand as we get more elements, more data is being extracted [00:27:30] from these these these systems. And we look to the market to provide. You know, I have a question.
+
+Speaker4: [00:27:35] For sure.
+
+Speaker1: [00:27:36] Because your data is only what is as good as what the agent has. And we have a big problem.
+
+Speaker4: [00:27:41] Where we have.
+
+Speaker1: [00:27:42] A Madrid entity and a New York entity. How would I and a lot of.
+
+Speaker4: [00:27:45] Notices.
+
+Speaker1: [00:27:45] And cash go to the Madrid entity. And I don't want that to happen. How would.
+
+Speaker4: [00:27:49] You flag.
+
+Speaker1: [00:27:49] That. So so that CCI, when you're setting it up you understand that the deal. So we have the Madrid entity and the New York one. So you will know in [00:28:00] real time or immediately where the deal is booked. So you're not waiting for a cash break to tell you that there's an error from the agent.
+
+Speaker1: [00:28:08] So and that's part of the lender reconciliation workflow as well. So the idea with reconciliation was the ability to reconcile positions on a 24 hour rolling basis. So imagine it's 5 p.m. New York time that it closes. So you're able to reconcile your book every day at that time. So Mondays. Good. Tuesdays. Good. Wednesdays good. Between Wednesday and Thursday, something happened. You're able to say [00:28:30] there's five breaks within that 24 hour window. The platform identifies which events occurred during that discrete time period to say there was a prepay or there was a trade that settled maybe into Madrid versus New York. And now, you know, you have a break. You're not waiting 90 days until cash is meant to come in. And then there's been 15 trades that happened on the wrong notional amount since then that you need to figure out. So it's the ability to focus the the issues to 24 hours and identify if in fact it was booked to the wrong guy.
+
+Speaker2: [00:28:59] So [00:29:00] you identify, you.
+
+Speaker1: [00:29:01] Know.
+
+Speaker2: [00:29:01] The agent.
+
+Speaker4: [00:29:02] Is pointing to the wrong legal.
+
+Speaker1: [00:29:03] Entity here.
+
+Speaker4: [00:29:05] Is there any are you.
+
+Speaker1: [00:29:05] Thinking about any digitization behind that.
+
+Speaker4: [00:29:08] So rather than having to reach out manually or chat. Right. Just say what to.
+
+Speaker1: [00:29:13] This.
+
+Speaker4: [00:29:14] Right. And consume that.
+
+Speaker1: [00:29:15] Not at the moment. But that's potentially, you know, other functionality that would happen kind of in subsequent releases, but at the moment it's identify it so it can be fixed immediately. And we as an organization get involved in those. It's not part of the service per se, [00:29:30] but we're talking to the agents regularly. There's dedicated teams for the kind of project to identify these types of issues, and a lot of customers that are coming on board, particularly multinationals. A few of the Japanese banks that that came on board recognize that the Asian banks, these top tier Asian banks had the entities, five, ten different entities for the same one because one had a comma or a period or some derivation of the name, not just Madrid versus New York, but it's the same name [00:30:00] minus a comma or minus a period. And so they're working against that. And, and so things were being missed. So that I'm sure you know.
+
+Speaker2: [00:30:12] So that's so then the Asian bank is able to reconcile. Yes. And we're so when they're sending they get a feeling like.
+
+Speaker1: [00:30:21] He was letting.
+
+Speaker2: [00:30:23] Them know that they are sending it to.
+
+Speaker1: [00:30:25] You as though he was the lender of record. If you're doing a reconciliation process so that we traded, you [00:30:30] know, 10 million yesterday, it didn't show up today. You recognize the break and you see the event. Notice that came in that said trade settle to entity X. It should be entity Y. And to be able to action that with JPM as the lender.
+
+Speaker2: [00:30:44] That's right. So this is what I had to trade.
+
+Speaker1: [00:30:48] Yeah. Can I seek that position. No no no no no not not not through us not through our platform. It's just arming you with the intelligence that there's something wrong and you act on it during your normal course.
+
+Speaker2: [00:30:59] Well, we're getting [00:31:00] to the point we.
+
+Speaker1: [00:31:01] Can do is we can show you a demo of the lender recon tool. And once you see it, you're like, oh, I think it's like everybody's just like, oh, yeah, I.
+
+Speaker2: [00:31:08] Guess it is. I've been thinking about the API for sure. Again, I'm, I was like trying to send a notice to lie to us and say, well, I'm actually in there trying to put in to put an event into my system that doesn't exist. Right. So that means to break [00:31:30] somewhere to the guys. You're you're trying you're reaching the wrong place. If this other not me. So I mean, again, not not for now obviously, but we need to understand a little bit how how that works and how the platform helps to tell the guys that they have the wrong counterpart. They need to change to another one. Or if we see, rather than us going to a play that I mean. Right. Also useful. But again, it's moving to another place, another channel. Oh, let me check all the other things that I have messed up and then start sending emails to which [00:32:00] we sent like yesterday. And it's like this problem this way. Okay. So yeah, we need to understand how to deal with that. Okay.
+
+Speaker4: [00:32:10] I see the way to kind of think about it. The way that we sort of had conversations with the consumers is called three different sort of cues are three different avenues through which that consumption can take. Two of them are through the borrower the agent kind of generated activity. And then the other one is sort of through lender. So the trades would sort of sit in that lender. [00:32:30] So whereas you might be checking those and looking at those, but maybe your trade activity is feeding actually from your OMS rather than that, but you're sort of just validating off of that. Then when you look at the other two avenues which are coming from the borrower, from the agent, you could then say there are certain things which I'm comfortable just straight through processing rate sets, things like that, not worrying about it. But maybe if I'm sending out a $10 million wire, I'm going to queue that up for that. So that's generally the way that some of those things, they're getting them in and they're potentially [00:33:00] looking at what is this trade that I got or what's the.
+
+Speaker2: [00:33:04] Deal in the wrong place. And. I need to reject it or the system needs to reject it and send it back to them and say, guys, you're reaching. This is. There's something wrong with this because the other side didn't receive and process nothing. So I think this is what I'm envisioning, that we should be heading to.
+
+Speaker1: [00:33:28] Some of those and that we'll we talked about like [00:33:30] trade settlement as an example. So being able to integrate data into the settlement process and potentially having that pushback to say, no, this is settling with the wrong entity. And that's a gate that's created through the settlement process. But it's really the avenue of getting real time data from agent banks directly into other consumption points, and being able to see that in real time to do those checks or create those processes where you say, no, we don't recognize this, redo that functionality utility is more next phase for us right now. It's more of the data identifying [00:34:00] the information and allowing that transparency to to exist where it doesn't exist today. But I know we're at time right on time here. So any other questions while we have it today. Hopefully that was helpful.
