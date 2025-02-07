@@ -1,0 +1,91 @@
+I hope this email finds you well. I am reaching out to provide an overview of Versana and its potential value to Santander, as well as details regarding the upcoming Proof of Concept (PoC) trial enabled by the Evaluation Agreement.
+
+What is Versana?
+
+Versana is the first democratized and digitized central golden source for Syndicated Loan data. The platform is already in production at scale, delivering tangible operational benefits to integrated clients. Currently, major loan agents such as JPMorgan (JPM) and Bank of America (BOA) are fully integrated, with Wells Fargo in the process. Additional members of the Versana consortium include Citi, Barclays, Deutsche Bank, Morgan Stanley, and US Bancorp, with Goldman Sachs and Jefferies in discussions.
+
+At present, all loans agented by integrated banks (JPM, BOA, and Wells Fargo) feed live static and economic data into Versana, covering approximately 6,000 loan facilities (up from 2,000 at the end of 2023).
+
+Key Value Propositions for Santander
+
+Real-time Trading Position Reconciliation: Direct reconciliation with the agent bank ensures certainty of trading positions, reducing settlement times.
+
+Lifecycle Event Consumption: Enables real-time access to paydowns, interest payments, and other loan events up to 3–5 days in advance via digitized notices.
+
+Enhanced Loan Market Data: Provides higher granularity and fidelity.
+
+Digitization of Agent Notices: Transitions from manual processes (fax, email) to straight-through processing (STP) via API, reducing operational errors, inquiries, amendments, and costs.
+
+Meeting & Loan Transaction Lifecycle Overview
+
+The loan transaction lifecycle consists of:
+
+Loan Underwriting: Borrower agreements, credit documents, and closing.
+
+DCM Sales Process: Deal materials, fund onboarding, KYC, and book-building.
+
+Secondary Loan Trading: Data provider to trading platforms.
+
+Trading Operations: Trade capture, open trades, assignments, funding, and settlements.
+
+Servicing Operations: Borrower payments, participant remittances, position history, digital notices, accrued interest, base rates, margin/spread, and reconciliation.
+
+Portfolio Management: Position tracking, pricing, and P&L management.
+
+Risk Management: Communication between agents and lenders.
+
+Versana primarily focuses on Servicing Operations, offering approximately 200 data points and real-time access to agent bank systems, eliminating the need for intermediary data processing.
+
+Versana PoC Details
+
+The Evaluation Agreement provides Santander with a three-month trial of Versana, commencing after user onboarding. Key aspects include:
+
+Trial Duration: 3 months (extendable if necessary).
+
+CEI Identifier: Required for each lender of record to enable direct data flow to the UI.
+
+User Access: 10 users initially (expandable as needed).
+
+Data Access: Consumption via UI (API access available only via subscription, with documentation and sample outputs provided).
+
+Cost: No cost associated with the trial.
+
+Phased Implementation: Agency (publishing) and Lending (consuming) can be done separately; PoC will initially focus on the lender role.
+
+Current Data Availability
+
+BOA & JPM: 100% of US dollar loan data published.
+
+Wells Fargo: ~80% of portfolio published.
+
+Citi, Barclays, Morgan Stanley, Deutsche Bank: Expected onboarding by Q2.
+
+Goldman Sachs & Jefferies: Ongoing negotiations.
+
+UBS: Currently working with Versana.
+
+To retrieve relevant data from Versana, Santander must ensure it has deals with these entities.
+
+Estimated Onboarding Timeline
+
+Lender Role Only: ~2-4 months, depending on Santander's technology and resources.
+
+Agency Role (if included): Longer timeline (JPM took ~1 year; Wells Fargo ~6 months).
+
+Geographical Scope: Currently limited to US trades. Legal processes are underway for European expansion, but no timeline is available.
+
+Future Enhancements (2025): Expected introduction of multi-currency deals.
+
+Quality Assurance Measures
+
+Core Validations: Ensure agents provide accurate information.
+
+Real-Time Updates: Adjustments are reflected immediately.
+
+Data Cleansing & Standardization: Data normalization before integration.
+
+Restricted Data Publishing: Only lenders of record can publish.
+
+Additionally, Versana offers a Lender Reconciliation Module, capable of reconciling positions on a 24-hour rolling basis. A demo of this tool can be arranged if required.
+
+Please let us know if you have any questions or if a follow-up discussion is needed. Looking forward to your thoughts on the next steps.
