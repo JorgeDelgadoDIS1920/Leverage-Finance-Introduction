@@ -1,0 +1,90 @@
+Versana
+
+	1. What is Versana?:
+	Versana is the first democratized and digitized central golden source for Syndicated Loan data. They are in production and at scale – providing recognizable tangible operational benefits to integrated clients today. Two of the largest Loan Agents in the market (JPM & BOA) are already fully integrated, with Wells Fargo in process. Other members of the Versana consortium include: Citi, Barc, DB, MS, & US Bancorp; with GS & Jeffries in discussions. This means that all Loans agented by integrated banks (JPM, BOA, Wells so far) are feeding live updated static and economic data into the platform today. Currently 6k loan facilities digitized on the platform, was 2k at YE 2023.
+	
+	2. The value propositions to Santander are:
+	1. Ability to reconcile trading positions direct to Agent bank in real time: providing certainty of trading positions, thereby reducing settlement times.
+	2. Ability to consume lifecycle events (paydowns, interest payments, etc.) on loan positions in real time (and 3-5 days ahead of the event) via digitized notices.
+	3. Improves loan market data – higher granularity, with higher fidelity.
+	4. Allows digitization of agent notices: moving from fax and email to STP/API distribution: Removes dual keying of loan servicing events – by agent and lender Banks, thereby reducing operational errors / inquires / amendments and ultimately reduces costs (including quicker capital/RWA recycling)
+		
+	3. Meeting
+	
+	The loan transaction Lifecicle is composed primarely by:
+		a. Loan Underwriting (Borrower and Legal Docs, Credit agreements, closing …)
+		b. DCM Sales Process (Deal Materials Portal, Fund Onboarding/KYC, Primary book-building)
+		c. Secondary Loan Trading (Data provider to trading platforms)
+		d. Trading Operations (Trade Capture, Open trades, Assignments, Fund & settle)
+		e. Servicing Operations (Borrower Pmts(P&L), Participant remits, Position History, Digital Notices, Accrued Interest, Base Rate details, Margin/Spread, Reconciliation)
+		f. Portfolio Management( Positions, Pricing, P&L)
+		g. Risk Management ( Agent comms, Lender Comms …)
+		
+	Versana is mostly focused around  point "e"  with aproximately 200 points of data,  the access to real time information direct from agent bank systems of record, is really the core value prop that Versana is pushing out into the space.
+	
+	
+	
+	So today, the data is through PDFs, emails, faxes. You get on a distribution list and that information is sent to you. It's processed either by yourself or a third party. 
+	
+	Versana as an organization is looking to remove that entire workflow, So it's direct agent to lender of record digitally without any other intervening party manipulating the data, calculating the data.
+	
+	
+	
+	The Evaluation Agreement document that is beeing signed enables Santander to have a  software 3 month trial.
+	During this period we will have the PoC, this peried will begin Once the users have gone through an Onboarding process.
+	
+	Versana PoC Features:
+	
+	- Information available for 3 Months (Can be extended if necessary).
+	- A CEI (CUSIP Entity Identifier) identifier will have to be created for each lender of record.
+	- The CEI identifier will enable all the data to flow directly to our UI (User interface).
+	- 10 users will be given access to the platform, if necesary, more will be provided access.
+	- All information will be consumed via UI.
+	- API is subscription based, we will not have acces during trial.
+	- Documentation, payloads and output samples regarding  the API will be provided.
+	No costs associated with the versana trial.
+	- Agency(publishing data) and Lending(consuming data) approaches can be done at different times.
+	- The first stage of the PoC will be focused on testing the lender Role.
+
+
+Data providers:
+BOA and JPM have published 100% of the data from US Dollar loans
+Wells Fargo arround 80% of their portfolio
+And the rest of the banks (Citi, Barclays,Morgan Stanley, Deutsche Bank) should be onboarded through Q2
+Goldman Sachs and Jefferies have on going negotiations with versana also.
+Currently working with UBS.
+
+Given that Versana only has information from the entities described above, we will have to ensure Santander has deals with these entities so that relevant inforamtion can be retireved from Versana.
+
+
+Versana stimates if our scope is to only consume the data as a lender the process could take around 2-4 months, but it mostly depends on type of technology santander has and the resources used for this implementation.
+
+If Agency is also in the scope it could take more, JPMorgan took around 1 year and wells fargo around 6 month to get On-boarded. 
+
+Currently, Versana only has information about trades that occur in the US, they have an ongoing legal process to get licenses to operate in Europe, no timeline can be given yet.
+
+Throughout 2025 they are expecting to add functionalitites to the platform, such as Multi-currency deals.
+
+
+Quality Requirements:
+
+	- How do they assure the quality provided by the agent is accurate?
+
+Versana has Core validations when agents are publishing to ensure that they are providing the necessary information for that event.
+
+Also, whenever and adjustment is made the update is made in real time.
+
+Work has been made behind the scenes to clean up data and make it more transparent, and also normalicing the data before introducing it to Versana.
+
+Only lenders of record (Entities) are able to publish data in the system. 
+
+
+
+
+
+The CEI will only be used for a lender of record, other identifiers will be sued for portfolios, books, etc.
+
+
+Versana also has the Lender reconciliation Module, it has the capability of reconciliation positions on a 24h  rolling basis.
+A demo of the lender recon toll can be provided.
+
